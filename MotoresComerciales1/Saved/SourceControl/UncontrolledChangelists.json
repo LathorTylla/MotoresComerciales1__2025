@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Github/MotoresComerciales1__2025/MotoresComerciales1/Content/ThirdPerson/Input/Actions/IA_Sprint.uasset",
+				"D:/Github/MotoresComerciales1__2025/MotoresComerciales1/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/Github/MotoresComerciales1__2025/MotoresComerciales1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Github/MotoresComerciales1__2025/MotoresComerciales1/Content/ThirdPerson/Input/Actions/IA_Jump.uasset",
+				"D:/Github/MotoresComerciales1__2025/MotoresComerciales1/Content/BP_Platform.uasset",
+				"D:/Github/MotoresComerciales1__2025/MotoresComerciales1/Content/BPI_Inflamable.uasset",
+				"D:/Github/MotoresComerciales1__2025/MotoresComerciales1/Content/Particles.uasset",
+				"D:/Github/MotoresComerciales1__2025/MotoresComerciales1/Content/Blueprints/BP_Spawner.uasset",
+				"D:/Github/MotoresComerciales1__2025/MotoresComerciales1/Content/Wood_Monster/CharacterParts/Character/UE5/BP_wood_monster_02.uasset",
+				"D:/Github/MotoresComerciales1__2025/MotoresComerciales1/Content/ThirdPerson/Blueprints/BP_NPC.uasset",
+				"D:/Github/MotoresComerciales1__2025/MotoresComerciales1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/7N/E7Q44E8LKT9TO6ZGTND3SR.uasset",
+				"D:/Github/MotoresComerciales1__2025/MotoresComerciales1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/0K/WMY6TDEO2RGZDFI91EG4GB.uasset",
+				"D:/Github/MotoresComerciales1__2025/MotoresComerciales1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/DC/3OKB1156Q0U9HNE6LZSQ46.uasset",
+				"D:/Github/MotoresComerciales1__2025/MotoresComerciales1/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
+			]
+		}
+	]
+}
