@@ -89,3 +89,9 @@ DerivedDataCache/*
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
+
+# Visual Studio Code workspace settings
+.vscode/
+
+# Explicitly ignore Unreal Engine 5 autosaves
+/Saved/Autosaves/
