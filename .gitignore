@@ -72,3 +72,20 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Logs
+*.log
+
+# User-specific files
+*.user
+*.userprefs
+
+# JetBrains Rider
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
