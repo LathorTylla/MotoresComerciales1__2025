@@ -26,6 +26,10 @@
 		{
 			"Name": "Sample_CityKit",
 			"Enabled": true
+		},
+		{
+			"Name": "ChaosVehiclesPlugin",
+			"Enabled": true
 		}
 	],
 	"AdditionalPluginDirectories": [
