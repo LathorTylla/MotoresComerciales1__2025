@@ -14,6 +14,25 @@
 		{
 			"Name": "StaticMeshEditorModeling",
 			"Enabled": true
+		},
+		{
+			"Name": "PCG",
+			"Enabled": true
+		},
+		{
+			"Name": "CityBLD",
+			"Enabled": true
+		},
+		{
+			"Name": "Sample_CityKit",
+			"Enabled": true
+		},
+		{
+			"Name": "ChaosVehiclesPlugin",
+			"Enabled": true
 		}
+	],
+	"AdditionalPluginDirectories": [
+		"../../../EpicGames/UE_5.5/Engine/Plugins"
 	]
 }

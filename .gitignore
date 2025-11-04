@@ -96,3 +96,9 @@ ehthumbs.db
 # Explicitly ignore Unreal Engine 5 autosaves
 /Saved/Autosaves/
 /MotoresComerciales1/Saved
+/MotoresComerciales1/Binaries
+/MotoresComerciales1/Intermediate
+/MotoresComerciales1/Saved
+/MotoresComerciales1/Saved
+*.log
+*.old
